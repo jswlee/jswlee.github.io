@@ -48,22 +48,22 @@
       "website": "",
       "startDate": "2024-05-15",
       "endDate": "Present",
-      "summary": "Analyze and visualize Census Bureau data to drive decisions on resource allocation to resolve inequities in the community",
+      "summary": "Analyzed and visualized Census Bureau data to drive decisions on resource allocation to resolve inequities in the community",
       "highlights": [
-        "Presented findings of Census Bureau analysis to Councilmember Weyer",
+        "Presented findings of Census Bureau analysis to Council Member Weyer",
         "Developed a data pipeline using Census Bureau APIs and PostreSQL databases"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Akatsuki Taiwan",
+      "position": "Localization Specialist",
+      "website": "",
+      "startDate": "2020-04-01",
+      "endDate": "2021-07-01",
+      "summary": "Translated and proofread material from Chinese to English for a mobile game.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Optimized workflow by developing Python scripts and Google Sheets formulae to automatically translate and proofread certain repetitive content",
+        ""
       ]
     }
   ],
