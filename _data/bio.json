@@ -16,9 +16,7 @@
   "interests": [
     { "name": "Data Science" },
     { "name": "Mandarin" },
-    { "name": "NLP" },
-    { "name": "" },
-    { "name": "" }
+    { "name": "NLP" }
   ],
   "skills": [
     {
@@ -62,50 +60,50 @@
       "endDate": "2021-07-01",
       "summary": "Translated and proofread material from Chinese to English for a mobile game.",
       "highlights": [
-        "Optimized workflow by developing Python scripts and Google Sheets formulae to automatically translate and proofread certain repetitive content",
-        ""
+        "Optimized workflow by developing Python scripts and Google Sheets formulae to automatically translate and proofread repetitive content",
+        "Collaborate with a multilingual, multicultural group to localize game content"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Dean's List",
+      "date": "2011-2014 & 2024 (Spring)",
+      "awarder": "University of Colorado Boulder, University of Hawai'i",
+      "summary": "Maintained a high GPA for all semesters of college."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
