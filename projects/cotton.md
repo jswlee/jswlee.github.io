@@ -11,9 +11,7 @@ labels:
 summary: "Visualizations using Census Bureau data from the American Community Survey."
 ---
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
+As part of my internship at the City and County of Honolulu's Office of Economic Revitalization, I learned how to extract data from the Census Bureau's American Community Survey (ACS) Public Use Microdata Sample (PUMS) API. 
 
 <hr>
 
