@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:
+image: jswlee.github.io/img/data_analysis.png
 title: "Census Bureau Data Exploration"
 date: 2024
 published: true
