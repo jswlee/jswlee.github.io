@@ -1,28 +1,24 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
-published: false
+image: 
+title: "Personal Fitness Data Analysis"
+date: 2024
+published: true
 labels:
   - Javascript
   - Meteor
   - MongoDB
   - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+summary: "A project to return to running form pain- and injury-free."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+I am embarking on a data-based project to return to running injury-free, which  both my personal passion for running and my professional interest in software development, particularly in data science. The specific objective of this project is to re-establish a routine of running three times a week without sustaining injuries. To achieve this, I plan to create a user interface (UI) that will document the entire process, capturing not only the data related to my workouts but also incorporating brief narratives and visualizations that reflect the journey.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+To ensure that my progress is measurable, I will maintain a detailed spreadsheet that records all workouts, focusing on how my ankles and feet feel after each session. This data-driven approach will involve selecting the most relevant variables to monitor, which might include pain levels, duration, and intensity of runs, among others. By systematically tracking these metrics, I will be able to observe trends, make informed adjustments to my routine, and ultimately work towards a sustainable running practice.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Achieving this goal requires more than just physical effort; it necessitates a commitment to discipline and time management. One of the challenges I anticipate is the need to reduce my video game consumption, as this will free up the necessary time and mental focus not only for consistent exercise but also for the meticulous logging of data and the development of the UI. Balancing these aspects is crucial to the success of the project.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+The relevance of this goal extends beyond personal health and fitness. It offers an opportunity to practice and enhance my software development skills in a context that is meaningful to me. By integrating my interest in running with my professional focus on data science, I can create a project that not only serves as a practical tool for injury prevention but also as a portfolio piece that demonstrates my ability to apply data-driven methodologies to real-world challenges.
 
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+Finally, this project is time-bound, with the aim of completing it by the end of the semester. This deadline provides a structured timeframe within which I must work, ensuring that I maintain momentum and stay on track. By the end of this period, I hope to have not only returned to a consistent, injury-free running routine but also developed a functional and insightful UI that encapsulates my journey and growth in both personal and professional domains.
