@@ -10,7 +10,8 @@
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jswlee1", "url": "http://jswlee.github.io" },
-      { "network": "linkedin", "username": "JR Lee", "url": "https://www.linkedin.com/in/jr-lee-48876679/" }
+      { "network": "linkedin", "username": "JR Lee", "url": "https://www.linkedin.com/in/jr-lee-48876679/" },
+      { "network": "email", "username": "jlee63", "url": "jlee63@hawaii.edu" },
     ]
   },
   "interests": [
