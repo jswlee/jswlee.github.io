@@ -66,45 +66,12 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
-  ],
   "awards": [
     {
       "title": "Dean's List",
       "date": "2011-2014 & 2024 (Spring)",
       "awarder": "University of Colorado Boulder, University of Hawai'i",
       "summary": "Maintained a high GPA for all semesters of college."
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
     }
   ],
   "references": [
