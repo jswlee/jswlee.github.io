@@ -15,12 +15,8 @@ As part of my internship at the City and County of Honolulu's Office of Economic
 
 The work culiminated in several Tableau dashboards and a report that I presented in person to Councilmember Matt Weter at his office. The report is as follows:
 
-# MEMORANDUM
-
-**To:** Council Member Matt Weyer  
-**From:** Office of Economic Revitalization  
+# Community Equity Liaison Background Research
 **Date:** July 31, 2024  
-**Re:** Community Equity Liaison Background Research
 
 ## Executive Summary
 
@@ -67,4 +63,4 @@ We recommend the following community equity liaison designations based on data a
 
 
 
-[Tableau Visualizations] (https://public.tableau.com/views/PUMADemographics/BasicDemographics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Tableau Visualizations](https://public.tableau.com/views/PUMADemographics/BasicDemographics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
