@@ -7,7 +7,7 @@
     "phone": "",
     "website": "https://jswlee.github.io",
     "summary": "Hi! I am currently a Computer Science student at the University of Hawaii at Manoa. I have a passion for data science, languages, and sports.",
-    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jswlee1", "url": "http://jswlee.github.io" },
       { "network": "linkedin", "username": "JR Lee", "url": "https://www.linkedin.com/in/jr-lee-48876679/" },
@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "Javascript", "SQL", "Java"]
+      "keywords": [ "Python", "Javascript", "SQL", "Java", "Mandarin"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Tableau", "pandas", "MacOS"]
+      "keywords": [ "Tableau", "pandas", "MacOS", "Power BI"]
     }
   ],
   "education": [
