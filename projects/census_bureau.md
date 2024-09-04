@@ -12,9 +12,21 @@ summary: "Visualizations using Census Bureau data from the American Community Su
 ---
 <img class="img-fluid" src="../img/Basic_Demographics.png">
 
-As part of my internship at the City and County of Honolulu's Office of Economic Revitalization, I was tasked with identifying areas in Oahu where there exists economic, linguistic, and educational inequities that might inhibit the economic mobility of those living there. Thanks to the vague nature of my assignment and my own "greenness", the journey to get to a workable analysis was not straightforward. I first began with researching previous studies and data, but realized later with a meeting with my superiors that they lacked granularity -- specifically with regards to the Asian and Pacific Islander population on the island. This led me to attempt to replicate the analyses of these studies by going straight to the data sources. It was then that I discovered the US Census Bureau provided annual data samples of the American Community Survey. While I later learned how to extract the sample (Public Use Microdata Sample, PUMS) from the Census Bureau's API, at the time, the best I knew how to do was extract the data from IPUMS, who provide a simple interface to select samples and variable for extraction.
+As part of my internship at the City and County of Honolulu's Office of Economic Revitalization (OER), I was tasked with identifying areas in Oahu where there exists economic, linguistic, and educational inequities that might inhibit the economic mobility of those living there. Thanks to the vague nature of my assignment and my own "greenness", the journey to get to a workable analysis was not straightforward. In generally, it involved four steps: research, data exploration, data visualization, data presentaiton.
 
-The work culiminated in several Tableau dashboards and a report that I presented in person to Councilmember Matt Weter at his office. The report is as follows:
+### Research
+I first began with researching previous studies and data, but realized later with a meeting with my superiors that they lacked granularity -- specifically with regards to the Asian and Pacific Islander population on the island. This led me to attempt to replicate the analyses of these studies by going straight to the data sources. It was then that I discovered the US Census Bureau provided annual data samples of the American Community Survey. While I later learned how to extract the sample (Public Use Microdata Sample, PUMS) from the Census Bureau's API, at the time, the best I knew how to do was extract the data from IPUMS, who provide a simple interface to select samples and variable for extraction. Regardless, I had finally found my dataset.
+
+### Exploration
+With the PUMS data, I spent several weeks not only understanding what the variables were, but how other researchers use them to draw conclusions about a population. There are hundreds of variables (in this context, answers to the survey questions), with each of them having their own codes for the responses, so this was one of the most time-consuming parts of the project.
+
+### Visualization
+Exploration of the data continued as I learned how to visualize the data in Tableau. Thanks to my student status, I was able to get a one-year subscription to Tableau Desktop, which allowed me to do GIS analysis (not an option on the free version). Through countless hours of trial and error, I learned how to apply useful Tableau "Calculated Fields" to not only transform the data (mostly from number codes to actual text), but also to perform simple calculations that are common in Census data such as the percent of the population that is limited English proficiency or the percent of the population 25 years old or older who have attended higher education institutions. I then learned how to not only make the maps of Oahu interactive, but a little easier to read through better color coding. As someone who had not done too much visualization before this point, this was definitely my favorite stage of the project.
+
+### Presentaiton
+Throughout the duration of the project, I had several meetings with stakehoders of varying seniority at OER. However, the most interesting meeting was an in-person presentation to Councilmember Matt Weter at his office along with the Executive Director of OER, Amy Asselbaye. Having spent several years as a teacher in China, I did not feel especially nervous. In fact, having spent so long silently plugging away at the data, I invited the chance to explain everything I had found. Being able to present my report to people who can make the change was a rewarding experience.
+
+The report is as follows:
 
 # Community Equity Liaison Background Research
 **Date:** July 31, 2024  
