@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: img/中.png
-title: "Classical Chinese Text Analyzer"
+title: "Ode to the Classics"
 date: 2024
 published: true
 labels:
   - Chinese
   - NLP
   - Python
-summary: "I created a basic Classical Chinese Text Analyzer"
+summary: "I created a basic Classical Chinese text analyzer to assist research in the field"
 ---
 
 <img class="img-fluid" src="../img/GUI_Screenshot.png" style="width:25%;">
