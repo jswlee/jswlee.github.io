@@ -51,6 +51,7 @@
       "startDate": "2017-09-01",
       "endDate": "2020-02-01",
       "courses": [
+        "Thesis: Semi-Automatic Identification of Chinese RVC and Their English Translations Equivalents [Link](https://www.airitilibrary.com/Article/Detail/U0001-1902202021200400#Summary)",
         "News Translation",
         "Introduction to Interpretation",
         "Chinese to English Translation",
@@ -90,7 +91,7 @@
       "website": "",
       "startDate": "2017-03-01",
       "endDate": "2023",
-      "summary": "Translated from Chinese (Traditional and Simplified) to English.",
+      "summary": "Translated from Chinese (Traditional and Simplified) to English",
       "highlights": [
         "Translated legal, medical, academic, and scientific texts"
       ]
@@ -101,7 +102,7 @@
       "website": "https://aktsk.jp/en/",
       "startDate": "2020-04-01",
       "endDate": "2021-07-01",
-      "summary": "Translated and proofread material from Chinese to English for a mobile game.",
+      "summary": "Translated and proofread material from Chinese to English for a mobile game",
       "highlights": [
         "Optimized workflow by developing Python scripts and Google Sheets formulae to automatically translate and proofread repetitive content",
         "Collaborate with a multilingual, multicultural group to localize game content"
@@ -131,7 +132,7 @@
       "title": "MOE Taiwan Scholarship",
       "date": "2017-2019",
       "awarder": "Taiwan's Ministry of Education",
-      "summary": "Awarded to meritorious students to pursue studies in Taiwan. Included tuition and stipend for living expenses."
+      "summary": "Awarded to meritorious students to pursue studies in Taiwan; included tuition and stipend for living expenses"
     }
   ],
   "references": [
