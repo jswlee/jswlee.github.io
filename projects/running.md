@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/run.png
 title: "Moving Forward: A Data-Driven Return to Running"
 date: 2024
 published: true
