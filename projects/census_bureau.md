@@ -8,7 +8,7 @@ published: true
 labels:
   - Tableau
   - Python
-summary: "Visualizations using Census Bureau data from the American Community Survey."
+summary: "Visualizations using Census Bureau data from the American Community Survey"
 ---
 <img class="img-fluid" src="../img/Basic_Demographics.png">
 
