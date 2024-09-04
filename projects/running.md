@@ -10,7 +10,7 @@ labels:
   - Tableau
   - SQL
   - Fitness
-summary: "An ongoing project to return to running form pain- and injury-free."
+summary: "An ongoing project to return to running form pain- and injury-free"
 ---
 
 ### The Vision
