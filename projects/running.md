@@ -32,4 +32,4 @@ Data by itself is useless unless I can present it in some interesting way. That'
 - TypeScript: Handle frontend and create interactive elements.
 - D3.js or Chart.js: Visualizing the data.
 
-I realize these descriptions sound vague. That's because I have so much to learn. I don't know yet how to build a website and have only basic knowledge on database management and data pipelines. Those are things I expect this project will teach me. I have much to learn, but I am motivated by the potential tangible benefits to my academic pursuits and physical health this endeavor can provide.
+I realize these descriptions sound vague. That's because I have so much to learn. I don't know yet how to build a website and have only basic knowledge on database management and data pipelines. Those are things I expect this project will teach me. I have much to learn, but I am motivated by the potential tangible benefits to my academic pursuits and physical health. Who knows, maybe after seeing the results, I can spark the reader's love for running. 
