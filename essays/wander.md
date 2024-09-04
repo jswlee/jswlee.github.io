@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "Meanderin' in Mandarin: (Soft)Where to Next?"
 date: 2024-09-01
 published: true
 labels:
   - Software Engineering
 ---
 
-## A Wander-ful Life
+## A Life Full of Wander
 Scenic, circuitous, a downright waste of time. One could easily make the claim that these words accurately encapsulate the journey I have taken to get to this point in my life. I prefer to describe my life as happy meandering, or as Zhuangzi called it two millenia ago, "free and easy wandering" (逍遙遊). From a boisterous, mischievous child allergic to hard work, to a student of Mandarin thriving in novelty and adventure in foreign lands, to an anxious translator muddling through the day to day, to finally a motivated father pursuing a degree in Computer Science, my path was anything but straightforward. Yet despite it all, I am where I want to be and learning what I want to learn. However, I contest that not all that came before this point was completely pointless. What I have gained over the years is ideas, experience, and above all, certainty in my direction. It is with my ideas that I hope, through my studies in software engineering, to finally be able to build something, to be creative. In order to do so, I have planned certain projects that marry these programming skills with my passions.
 
 ### Returning to Form
