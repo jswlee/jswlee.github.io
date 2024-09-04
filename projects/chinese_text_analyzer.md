@@ -12,7 +12,7 @@ labels:
 summary: "A Classical Chinese text analyzer to assist research in the field"
 ---
 
-<img class="img-fluid" src="../img/GUI_Screenshot.png" style="width:25%;">
+<img class="img-fluid" src="../img/GUI_Screenshot.png" style="width:30%;">
 
 
 ### Motivations
