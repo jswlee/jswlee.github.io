@@ -9,7 +9,7 @@ labels:
   - Chinese
   - NLP
   - Python
-summary: "I created a basic Classical Chinese text analyzer to assist research in the field"
+summary: "A Classical Chinese text analyzer to assist research in the field"
 ---
 
 <img class="img-fluid" src="../img/GUI_Screenshot.png" style="width:25%;">
