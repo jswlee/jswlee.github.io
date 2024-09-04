@@ -6,7 +6,7 @@
     "email": "jlee63@hawaii.edu",
     "phone": "",
     "website": "https://jswlee.github.io",
-    "summary": "Hi! I am currently a Computer Science student at the University of Hawaii at Manoa with a passion for data science and languages.",
+    "summary": "Hi! I am currently a Computer Science student at the University of Hawaii at Manoa. I have a passion for data science, languages, and sports.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jswlee1", "url": "http://jswlee.github.io" },
@@ -18,7 +18,7 @@
     { "name": "Data Science" },
     { "name": "Mandarin" },
     { "name": "NLP" },
-    { "name": "" }
+    { "name": "Running" }
   ],
   "skills": [
     {
@@ -36,7 +36,7 @@
       "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
       "startDate": "2024-01-07",
-      "endDate": "Spring 2025",
+      "endDate": "Present",
       "courses": [
         "Data Science Fundamentals",
         "Statistics and Probability",
