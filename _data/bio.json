@@ -17,7 +17,8 @@
   "interests": [
     { "name": "Data Science" },
     { "name": "Mandarin" },
-    { "name": "NLP" }
+    { "name": "NLP" },
+    { "name": "" }
   ],
   "skills": [
     {
@@ -31,12 +32,42 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii Manoa",
       "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
       "startDate": "2024-01-07",
-      "endDate": "Present",
+      "endDate": "Spring 2025",
       "courses": [
+        "Data Science Fundamentals",
+        "Statistics and Probability",
+        "Big Data Analytics",
+        "Software Engineering"
+      ]
+    },
+    {
+      "institution": "National Taiwan University",
+      "area": "Translation Studies",
+      "studyType": "M.A.",
+      "startDate": "2017-09-01",
+      "endDate": "2020-02-01",
+      "courses": [
+        "News Translation",
+        "Introduction to Interpretation",
+        "Chinese to English Translation",
+        "English to Chinese Translation"
+      ]
+    },
+    {
+      "institution": "University of Colorado - Boulder",
+      "area": "Chinese",
+      "studyType": "B.A.",
+      "startDate": "2011-08-20",
+      "endDate": "2014-05-05",
+      "courses": [
+        "Advanced Chinese",
+        "Classical Chinese",
+        "Linear Algebra",
+        "Vector Calculus"
       ]
     }
   ],
@@ -44,7 +75,7 @@
     {
       "company": "Office of Economic Revitalizaition",
       "position": "Data Analyst Intern",
-      "website": "",
+      "website": "https://www.revitalizeoahu.org",
       "startDate": "2024-05-15",
       "endDate": "Present",
       "summary": "Analyzed and visualized Census Bureau data to drive decisions on resource allocation to resolve inequities in the community",
@@ -56,7 +87,7 @@
     {
       "company": "Akatsuki Taiwan",
       "position": "Localization Specialist",
-      "website": "",
+      "website": "https://aktsk.jp/en/",
       "startDate": "2020-04-01",
       "endDate": "2021-07-01",
       "summary": "Translated and proofread material from Chinese to English for a mobile game.",
@@ -64,14 +95,26 @@
         "Optimized workflow by developing Python scripts and Google Sheets formulae to automatically translate and proofread repetitive content",
         "Collaborate with a multilingual, multicultural group to localize game content"
       ]
+    },
+    {
+      "company": "Suzhou Foreign Language School",
+      "position": "Teacher",
+      "website": "",
+      "startDate": "2014-09-01",
+      "endDate": "2016-06-31",
+      "summary": "Taught English, Math, and Science to grade school students.",
+      "highlights": [
+        "Built custom lesson plans in all core subjects for students in English as a foreign language",
+        "Planned and coached an extracurricular fitness club for interested students"
+      ]
     }
   ],
   "awards": [
     {
       "title": "Dean's List",
-      "date": "2011-2014 & 2024 (Spring)",
+      "date": "2011-2014 & 2024",
       "awarder": "University of Colorado Boulder, University of Hawai'i",
-      "summary": "Maintained a high GPA for all semesters of college."
+      "summary": "Maintained a high GPA for all semesters of college"
     }
   ],
   "references": [
