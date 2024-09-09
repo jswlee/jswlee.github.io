@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/run.png
 title: "Moving Forward: A Data-Driven Return to Running"
-date: 2024
+date: 2024/09/01
 published: true
 labels:
   - Python
