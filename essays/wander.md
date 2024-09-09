@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Meanderin' in Mandarin: (Soft)Where to Next?"
+title: "Meanderin' in Mandarin: Where to Next?"
 date: 2024-09-01
 published: true
 labels:
