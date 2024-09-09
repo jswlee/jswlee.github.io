@@ -13,7 +13,7 @@ summary: "A Classical Chinese text analyzer to assist research in the field"
 ---
 
 <img class="img-fluid" src="../img/GUI_Screenshot.png" style="width:30%;">
-
+[Link to git repo](https://github.com/jswlee/Chinese_text_Analyzer/tree/main/CHN%20631C%20Project)
 
 ### Motivations
 When asked to give my thoughts on characteristics of both Modern and Old Chinese with respect to word order and distribution, it occurred to me that it would be an interesting experiment to see what examples I could find of these phenomena in various Old Chinese texts, especially given the fact that it is difficult to search for this in a traditional linguistic corpus. As we were given an example of how Old Chinese does inflect for case as shown in the Analects in interrogative and negation sentences (e.g., 吾誰欺？ and 不我與, respectively), I decided to first look at the Analects and Zuozhuan (similar time period). By using the Natural Language Processing (NLP) toolkit known as Stanza, I was able to identify several similar cases by scanning the text for the same POS patterns.
