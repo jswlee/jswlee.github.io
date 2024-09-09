@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/data_analysis.png
 title: "Census Bureau Data Exploration"
-date: 2024
+date: 2024/09/03
 published: true
 labels:
   - Tableau
