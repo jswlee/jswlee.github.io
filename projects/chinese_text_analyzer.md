@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/中.png
 title: "Ode to the Classics"
-date: 2024
+date: 2024/09/02
 published: true
 labels:
   - Chinese
