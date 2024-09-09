@@ -6,6 +6,7 @@ date: 2024-09-01
 published: true
 labels:
   - Software Engineering
+  - Mandarin
 ---
 
 ## A Life Full of Wander
