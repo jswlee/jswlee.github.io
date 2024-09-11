@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "When 'Smart' Isn’t Smart"
+title: "When 'Smart' Isn''t Smart"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-10
 published: true
 labels:
-  - "Smart" Questions
+  - "Smart Questions"
   - Learning
 ---
 
