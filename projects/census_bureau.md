@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/data_analysis.png
 title: "Census Bureau Data Exploration"
-date: 2024
+date: 2024/09/03
 published: true
 labels:
   - Tableau
@@ -23,7 +23,7 @@ With the PUMS data, I spent several weeks not only understanding what the variab
 ### Visualization
 Exploration of the data continued as I learned how to visualize the data in Tableau. Thanks to my student status, I was able to get a one-year subscription to Tableau Desktop, which allowed me to do GIS analysis (not an option on the free version). Through countless hours of trial and error, I learned how to apply useful Tableau "Calculated Fields" to not only transform the data (mostly from number codes to actual text), but also to perform simple calculations that are common in Census data such as the percent of the population that is limited English proficiency or the percent of the population 25 years old or older who have attended higher education institutions. I then learned how to not only make the maps of Oahu interactive, but a little easier to read through better color coding. As someone who had not done too much visualization before this point, this was definitely my favorite stage of the project.
 
-### Presentaiton
+### Presentation
 Throughout the duration of the project, I had several meetings with stakehoders of varying seniority at OER. However, the most interesting meeting was an in-person presentation to Councilmember Matt Weter at his office along with the Executive Director of OER, Amy Asselbaye. Having spent several years as a teacher in China, I did not feel especially nervous. In fact, having spent so long silently plugging away at the data, I invited the chance to explain everything I had found. Being able to present my report to people who can make the change was a rewarding experience.
 
 The report is as follows:

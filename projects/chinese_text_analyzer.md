@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/中.png
 title: "Ode to the Classics"
-date: 2024
+date: 2024/09/02
 published: true
 labels:
   - Chinese
@@ -13,7 +13,6 @@ summary: "A Classical Chinese text analyzer to assist research in the field"
 ---
 
 <img class="img-fluid" src="../img/GUI_Screenshot.png" style="width:30%;">
-
 
 ### Motivations
 When asked to give my thoughts on characteristics of both Modern and Old Chinese with respect to word order and distribution, it occurred to me that it would be an interesting experiment to see what examples I could find of these phenomena in various Old Chinese texts, especially given the fact that it is difficult to search for this in a traditional linguistic corpus. As we were given an example of how Old Chinese does inflect for case as shown in the Analects in interrogative and negation sentences (e.g., 吾誰欺？ and 不我與, respectively), I decided to first look at the Analects and Zuozhuan (similar time period). By using the Natural Language Processing (NLP) toolkit known as Stanza, I was able to identify several similar cases by scanning the text for the same POS patterns.
@@ -58,3 +57,5 @@ It is possible other methods such as unsupervised or semi-supervised machine lea
 It's also pertinent to note that the historical context of some of these patterns may be of more use to linguists than simply their POS. It can often be difficult to interpret if the pattern matches that are identified are valid without knowledge of the history of the text. However, I would note that the scope of this project is only in being able to identify the patterns, so that other researchers can find more examples sentences of some linguistic aspect they wish to investigate.
 
 It is entirely possible to turn this entire project into a more intuitive and web-based tool for others interesting in research of Chinese grammar to use. In that case, the users would have all the options of the GUI I have provided, but in a much more accessible format. There are several advantages of doing this: users would not need to download the necessary Python packages to be able to apply these functions; users would not even have to have knowledge of Python or the command shell, which can be challenging for researchers in linguistics; the app developer could collect data from users of the app to refine the app and provide a better user experience and more robust results. This would, of course, take a considerable amount of time to learn how to implement these functions.
+
+[Link to git repo](https://github.com/jswlee/Chinese_text_Analyzer/tree/main/CHN%20631C%20Project)

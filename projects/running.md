@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/run.png
 title: "Moving Forward: A Data-Driven Return to Running"
-date: 2024
+date: 2024/09/01
 published: true
 labels:
   - Python
@@ -12,7 +12,7 @@ labels:
   - Fitness
 summary: "An ongoing project to return to running form pain- and injury-free"
 ---
-
+<img class="img-fluid" src="../img/running.png">
 ### The Vision
 I think it goes without saying that the most wonderful feeling in the world is going on a run. Well, perhaps not everyone feels that way. But for me, the freedom of using my own two legs to traverse all sorts of terrains and take in a variety of vistas leaves me with a sense of purpose and peace. Therefore, to hear from my podiatrist that I have to give up running for the sake of my ankles, was crushing, to say the least. However, recent visits to a sports medicine physician left me with a glimmer of hope, and an idea. What if I marry my academic and athletic interests by tracking personal data to experiment with my recovery? Not only would I be taking a more proactive approach to my recovery and, by extension, my life, I would be able to apply scientific and analytical methods to a personal, relevant challenge. I mean, what is data science if not used to solve actual problems?
 
