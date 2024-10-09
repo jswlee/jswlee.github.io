@@ -7,7 +7,7 @@ published: true
 labels:
   - Software Engineering
 ---
-<img src="../img/bootstrap5.png" width="75%">
+<img src="../img/bootstrap5.png" width="50%">
 
 ### Another Day, Another Essay
 
