@@ -7,7 +7,9 @@ published: true
 labels:
   - Software Engineering
 ---
-<img src="../img/bootstrap5.png" width="50%">
+<div style="text-align: center;">
+  <img src="../img/bootstrap5.png" width="35%">
+</div>
 
 ### Another Day, Another Essay
 
@@ -27,8 +29,10 @@ Okay, I lied. Here are a few sentences from a guy who has spent a literal week o
 6. The end.
 
 Oh, and for funsies, here's an example of how bad I am at this despite spending forever trying to figure it out (hint: I am the first one).
+<div style="text-align: center;">
+  <img src="../img/NatGeo_mine.png" width="50%">
+  <img src="../img/NatGeo_OG.png" width="50%">
+</div>
 
-<img src="../img/NatGeo_mine.png" width="50%">
-<img src="../img/NatGeo_OG.png" width="50%">
 
 
