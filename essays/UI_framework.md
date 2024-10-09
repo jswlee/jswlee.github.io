@@ -2,12 +2,12 @@
 layout: essay
 type: essay
 title: "UI Frameworks: Another Essay?!"
-date: 2024-09-23
+date: 2024-10-09
 published: true
 labels:
   - Software Engineering
 ---
-<img src="../img/bootstrap5.png" width=50%>
+<img src="../img/bootstrap5.png" width="75%">
 
 ### Another Day, Another Essay
 
@@ -28,7 +28,7 @@ Okay, I lied. Here are a few sentences from a guy who has spent a literal week o
 
 Oh, and for funsies, here's an example of how bad I am at this despite spending forever trying to figure it out (hint: I am the first one).
 
-<img src="../img/NatGeo_mine.png" width=50%>
-<img src="../img/NatGeo_OG.png" width=50%>
+<img src="../img/NatGeo_mine.png" width="50%">
+<img src="../img/NatGeo_OG.png" width="50%">
 
 
