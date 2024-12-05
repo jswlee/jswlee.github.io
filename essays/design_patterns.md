@@ -7,10 +7,9 @@ published: true
 labels:
   - Software Engineering
 ---
-<img src="../img/code_check.png">
 
 ### Sweet Baby Jesus, Here We Go Again
-Well, well, well. We meet again on the interwebs. Here I am writing about patterns meant to design how we, as mere simpletons, ought to structure our code, so as to emulate the transcendence of our programming forefathers. And there you are, wondering just how in the hell you came into the unsavory position of having to read (and potentially) grade this abomination.
+Well, well, well. We meet again on the interwebs. Here I am writing about patterns meant to design how we, as mere simpletons, ought to structure our code, so as to emulate the transcendence of our programming forefathers. And there *you* are, wondering just how in the hell you came into the unsavory position of having to read (and potentially) grade this abomination.
 
 But let's take a step back.
 
