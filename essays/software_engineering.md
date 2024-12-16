@@ -7,7 +7,7 @@ published: true
 labels:
   - Obligatory Essay Composition
 ---
-<img class="img-fluid" src="../img/software_engineering.png">
+<img class="img-fluid" src="../img/software_engineering.png" width="50%">
 
 # Reflection on Software Engineering
 
