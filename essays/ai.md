@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI'nt No Way"
+title: "AIn't No Way"
 date: 2024-12-15
 published: true
 labels:
