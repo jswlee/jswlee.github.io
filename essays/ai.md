@@ -7,7 +7,7 @@ published: true
 labels:
   - Real Human Writing
 ---
-<img src="../img/ai.png">
+<img src="../img/ai.png" width="50%">
 
 # Reflect on Your Use of AI in ICS 314
 
