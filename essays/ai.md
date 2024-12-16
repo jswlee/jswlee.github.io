@@ -13,8 +13,7 @@ labels:
 
 ## I. Introduction
 
-Artificial Intelligence (AI) has emerged as a transformative tool in education, offering opportunities to enhance learning experiences and optimize workflows. In the context of Software Engineering, AI tools like ChatGPT, Bard, and GitHub Copilot provide support for coding, debugging, and concept exploration. In ICS 314, I have utilized AI to assist with tasks such as writing essays, debugging code, and understanding software engineering principles. Ironically, I am using AI to write this very essay—in fact, the entire essay was written with the help of AI tools like ChatGPT. This feels like poetic justice given the excessive writing assignments in a non-writing intensive course. The lack of grading resources for a writing credit only adds to the frustration. As a former translator, this feels like a waste of time, but I find it beautifully ironic to leverage AI for an assignment critiquing its use.
-
+Artificial Intelligence (AI) has emerged as a transformative tool in education, offering opportunities to enhance learning experiences and optimize workflows. In the context of Software Engineering, AI tools like ChatGPT, Bard, and GitHub Copilot provide support for coding, debugging, and concept exploration. In ICS 314, I have utilized AI to assist with tasks such as writing essays, debugging code, and understanding software engineering principles. Ironically, I am using AI to write this very essay—in fact, the entire essay was written using ChatGPT. This feels like poetic justice given the excessive writing assignments in a non-writing intensive course. The lack of grading resources for a writing credit only adds to the frustration. As a former translator, this feels like a waste of time, but I find it beautifully ironic to leverage AI for an assignment critiquing its use.
 
 ## II. Personal Experience with AI
 
@@ -73,7 +72,6 @@ For debugging, I used prompts like “Fix the following ESLint errors:” The su
 ### Other Uses in ICS 314
 
 AI proved invaluable for brainstorming ideas, generating test cases, and simplifying complex concepts. For example, “Generate test cases for a login function” provided a baseline to build upon.
-
 
 ## III. Impact on Learning and Understanding
 
