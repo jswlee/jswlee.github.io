@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "UI Frameworks: Another Essay?!"
 date: 2024-10-09
-published: true
+published: false
 labels:
   - Software Engineering
 ---

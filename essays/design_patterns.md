@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Design Patterns: Oh, How I Hope"
 date: 2024-12-04
-published: true
+published: false
 labels:
   - Software Engineering
 ---

@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The AnSWEr to Life: More Essays!"
 date: 2024-12-16
-published: true
+published: false
 labels:
   - Obligatory Essay Composition
 ---
